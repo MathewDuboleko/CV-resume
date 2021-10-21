@@ -78,4 +78,4 @@ Every year my sister arrives from USA, and we talk about different events.
 
 ### Skills
 
-HTML & CSS(cemantic,grids), Git.
+HTML & CSS, JS, Git.
